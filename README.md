@@ -17,7 +17,11 @@ II. 起初我們希望能做到將傳統 only for 一家醫院的資料庫擴展
 
 ### 二、希望解決之功能
 利用正規化將醫療系統分為四大面向處理
-<img src='四大面向.png'> 
+
+
+<div align=center>
+    <img src='四大面向.png' width="500"> 
+</div> 
 
 ### 三、系統架構圖 E-R Model
 <img src='E-R Model_01.png'> 
@@ -26,7 +30,7 @@ II. 起初我們希望能做到將傳統 only for 一家醫院的資料庫擴展
 ### 四、設計過程與展示
 
 #### I. 病人操作
-<img src='E-R 病人操作.png'> 
+<img src='病人操作.png'> 
 
 #### II. 醫生操作
-<img src='E-R 醫生操作.png'> 
+<img src='醫生操作.png'> 
